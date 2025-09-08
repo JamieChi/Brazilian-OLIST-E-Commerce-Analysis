@@ -1,4 +1,4 @@
-# Brazilian-OLIST-eCommerce-Analysis
+# OLIST Brazilian E-Commerce Data Analysis
 
 ## Objectives
 1. Analyze business operations of Olist E-commerce platform
