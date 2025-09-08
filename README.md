@@ -9,10 +9,14 @@
 
 ● Provide insights & make suggestions
 
+
 ## Analysis Process
 ● Data Processing
+
 ● Data Visualization
+
 ● Data Interpretation
+
 ● Insight & Suggestion
 
 
